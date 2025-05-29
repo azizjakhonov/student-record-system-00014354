@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\StudentRecordSystem-Restored\\WAD-CW\\StudentRecordSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0499620D-AFDD-44AF-9090-B1C50ECA7033}|StudentRecordSystem.csproj|c:\\studentrecordsystem-restored\\wad-cw\\studentrecordsystem\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0499620D-AFDD-44AF-9090-B1C50ECA7033}|StudentRecordSystem.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0499620D-AFDD-44AF-9090-B1C50ECA7033}|StudentRecordSystem.csproj|c:\\studentrecordsystem-restored\\wad-cw\\studentrecordsystem\\dtos\\courseassignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0499620D-AFDD-44AF-9090-B1C50ECA7033}|StudentRecordSystem.csproj|solutionrelative:dtos\\courseassignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0499620D-AFDD-44AF-9090-B1C50ECA7033}|StudentRecordSystem.csproj|c:\\studentrecordsystem-restored\\wad-cw\\studentrecordsystem\\studentrecordsystem.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0499620D-AFDD-44AF-9090-B1C50ECA7033}|StudentRecordSystem.csproj|solutionrelative:studentrecordsystem.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\StudentRecordSystem-Restored\\WAD-CW\\StudentRecordSystem\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\StudentRecordSystem-Restored\\WAD-CW\\StudentRecordSystem\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwEkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:33:41.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseAssignmentDto.cs",
+              "DocumentMoniker": "C:\\StudentRecordSystem-Restored\\WAD-CW\\StudentRecordSystem\\Dtos\\CourseAssignmentDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\CourseAssignmentDto.cs",
+              "ToolTip": "C:\\StudentRecordSystem-Restored\\WAD-CW\\StudentRecordSystem\\Dtos\\CourseAssignmentDto.cs",
+              "RelativeToolTip": "Dtos\\CourseAssignmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:33:17.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentRecordSystem.http",
+              "DocumentMoniker": "C:\\StudentRecordSystem-Restored\\WAD-CW\\StudentRecordSystem\\StudentRecordSystem.http",
+              "RelativeDocumentMoniker": "StudentRecordSystem.http",
+              "ToolTip": "C:\\StudentRecordSystem-Restored\\WAD-CW\\StudentRecordSystem\\StudentRecordSystem.http",
+              "RelativeToolTip": "StudentRecordSystem.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-29T06:26:50.121Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
